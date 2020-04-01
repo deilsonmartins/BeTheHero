@@ -1,5 +1,5 @@
-<img src="./Frontend/src/assets/logo.svg"/>
 
+ <img src="./Frontend/src/assets/logo.svg" />
 
 <h3 align="center">
   #rocketseat, #nodejs, #express, #sqlite, #react
