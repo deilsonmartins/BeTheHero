@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="./Frontend/src/assets/logo.svg" alt="be the hero"/>
+</p>
 
- <img src="./Frontend/src/assets/logo.svg" />
 
 <h3 align="center">
   #rocketseat, #nodejs, #express, #sqlite, #react
