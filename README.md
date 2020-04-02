@@ -42,15 +42,15 @@
 
 Faça um clone desse repositório.
 
-### Backend
+### ⚔️ Backend
 
 1. A partir da raiz do projeto, entre na pasta do backend rodando `cd backend`;
 2. Rode `yarn` para instalar as dependências;
 3. Rode `yarn dev` para iniciar o servidor.
 
-### Frontend Web
+### 🛡 Frontend Web
 
---> Antes de executar, lembre-se de iniciar o backend deste projeto_
+⚠️ Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 1. A partir da raiz do projeto, entre na pasta do frontend rodando `cd frontend`;
 2. Rode `yarn` para instalar as dependências;
